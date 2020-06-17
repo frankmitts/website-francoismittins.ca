@@ -3,7 +3,7 @@
 # TEAM
 
 Designer & Developer: Francois Mittins <info@francoismittins.ca>
-Site: https://mitts.productions
+Site: https://francoismittins.ca
 GitHub: https://github.com/frankmitts
 Location: Ottawa, Canada
 
