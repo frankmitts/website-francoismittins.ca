@@ -82,6 +82,7 @@ img {
 .img-flex img {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 svg {
@@ -146,8 +147,8 @@ svg.img-flex {
 }
 
 .embed {
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: none;
+  margin-right: none;
   overflow: hidden;
   position: relative;
   width: 100%;

@@ -3,6 +3,7 @@
 #### []()
 
 ![](photo.jpg)
-Mitts is a published portrait and commercial photography company based in Ottawa. We are dedicated to uplifting those around us by creating impactful work that is rooted in honesty, vulnerability, and creativity. We strive to achieve thoughtful solutions to communicate your message through visual storytelling. Mitts has worked with clients such as Algonquin College, Godzspeed Communication and Redbull Interns.
+Francois Mittins (Mitts) is a published editorial and portrait photographer based in Ottawa, dedicated to uplifting those around him by creating impactful work that is rooted in honesty, vulnerability, and creativity.
+Mitts has worked with clients such as Algonquin College, Godzspeed Communication and Shaw Centre.
 
-©francoismittins.ca
+©Mitts.productions
