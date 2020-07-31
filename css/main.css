@@ -1,6 +1,6 @@
 html {
   font-family: "Josefin Sans", sans-serif;
-  font-family: "Merriweather", serif;
+  font-family: "Montserrat", serif;
   height: 100%;
   scroll-behavior: smooth;
 }
@@ -737,8 +737,8 @@ hr {
   }
 
   .large-gutter {
-    margin-left: 12em;
-    margin-right: 12em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 }
 
@@ -770,8 +770,8 @@ hr {
   }
 
   .large-gutter {
-    margin-left: 16em;
-    margin-right: 16em;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   li, ul, a {
